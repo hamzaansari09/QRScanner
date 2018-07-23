@@ -1,11 +1,11 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QRScanner'
-  s.version          = '1.0'
+  s.version          = '0.1'
   s.swift_version    = '4.0'
   s.summary          = 'QRScanner in RxSwift way'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.homepage = "https://github.com/hamzaansari09/HACameraView"
+  s.homepage = "https://github.com/hamzaansari09/QRScanner"
   s.author = { "Hamza Ansari" => "hamzaansari209@gmail.com" }
   s.source = { :tag => s.version }
 
